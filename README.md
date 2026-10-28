@@ -30,19 +30,7 @@ The following insights were generated using SQL:
 4. **Top 10 Products** – Best-selling products by revenue  
 5. **Customer & Invoice Metrics** – Number of unique customers and invoices  
 
-## Repository Structure
-```
-Retail-Analysis/
-├── README.md
-├── sql/
-│   ├── 01_data_cleaning.sql
-│   ├── 02_total_revenue.sql
-│   ├── 03_revenue_by_country.sql
-│   ├── 04_revenue_by_month.sql
-│   ├── 05_top_products.sql
-│   └── 06_unique_customers_invoices.sql
-└── data/                  ← (Upload your .db file here)
-```
+
 
 ## How to Verify This Work
 Anyone can check the analysis by following these steps:
@@ -52,7 +40,7 @@ Anyone can check the analysis by following these steps:
 3. Run the SQL scripts in the `/sql` folder **in order**
 4. Compare the results with the findings
 
-> **Note:** Please upload your final `.db` file into a `data/` folder so others can fully reproduce the work.
+
 
 ## Tools Used
 - DB Browser for SQLite
